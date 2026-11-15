@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="JsonGeneratorApp.Core/JsonGeneratorApp.Core.csproj" />
+  <Project Path="JsonGeneratorApp.Tests/JsonGeneratorApp.Tests.csproj" />
+  <Project Path="JsonGeneratorApp.UI/JsonGeneratorApp.UI.csproj" />
+</Solution>
